@@ -22,6 +22,7 @@
 | 프로젝트 | 설명 | 스택 |
 | --- | --- | --- |
 | **[RuleUp](https://github.com/RuleUp-ASM/Android)** | GPS · Health Connect · 스크린타임 등 멀티 시그널로 루틴을 자동 인증하는 그룹 챌린지 앱 | Multi-module · MVI · Navigation 3 · Hilt · SDUI |
+| **[세모점](https://github.com/Semojum)** | LLM + Rule-based 점역 엔진 기반 점역가 보조 에디터. SKT FLY AI 8기 우수상 | TypeScript · Python · Java |
 | **[AFTERNOTE](https://github.com/Sadturtleman/AFTERNOTE_FE)** | KUIT 6기 팀 프로젝트. 아키텍처 설계와 CI/CD 구축 담당 | Compose · GitHub Actions · ktlint · detekt |
 | **[WSS-Android (웹소소)](https://github.com/Team-WSS/WSS-Android)** | 웹소설 기록 앱. 작품 알림 기능 개발, XML → Compose 전환 | Compose · Clean Architecture |
 | **[EveryMuseum](https://github.com/Sadturtleman/EveryMuseum)** | Android 권장 아키텍처 샘플 | Kotlin · Compose |
